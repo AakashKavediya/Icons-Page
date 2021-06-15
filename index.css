@@ -55,6 +55,7 @@
   height: 100vh;
   border: 1px solid black;
   background-color: white;
+  overflow-y: scroll;
 }
 .slider h2 {
   padding: 10px;
